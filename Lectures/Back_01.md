@@ -8,9 +8,13 @@ In this lecture, we explain what is the Back-end and it's role in web developmen
 
 <br>
 
-## 🎥 Lecture Recording
+## 🎥 Lecture Recording & Slides
 
 You can rewatch the full session here: [Watch the recording](https://drive.proton.me/urls/HW8FB06PHC#2QXm7KPZfMQE)
+
+The slides used in the lecture: [Here](../assets/Backend_Intro.pdf)
+
+
 
 <br>
 
