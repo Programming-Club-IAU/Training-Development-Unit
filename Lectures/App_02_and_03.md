@@ -16,6 +16,7 @@ We started our first Flutter app and learned about widgets - the main Flutter UI
 - More important widgets (2 min):
     - [Align widget](https://youtu.be/hlcsVJpk1hw?si=OV9gQl5VpuciLefy)
     - [Expanded widget](https://youtu.be/APWY6ShaZTI?si=YlXWTZV2NjvVArD9)
+    - [Adding images -Network images or assets images-](https://youtu.be/tTCZc11qi5E?si=getw0tWbxcfbq5lt)
 
 -	If you need any extra explanation about any of the widgets we covered, you can reach out to me or search "**Flutter <widget name>**" and you’ll find plenty of useful tutorials.
 
