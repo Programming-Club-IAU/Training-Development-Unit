@@ -10,7 +10,7 @@ In this lecture, we explain what is the Back-end and it's role in web developmen
 
 ## 🎥 Lecture Recording & Slides
 
-You can rewatch the full session here: [Watch the recording](https://drive.proton.me/urls/HW8FB06PHC#2QXm7KPZfMQE)
+You can rewatch the full session here: [Watch the recording](https://udksa-my.sharepoint.com/:v:/g/personal/ccsit_pclub_iau_edu_sa/EUx2j8f45_hPi8H3WCxov9YBdJ3182FzC0t1nm1L7DLbuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BbfVae)
 
 The slides used in the lecture: [Here](../assets/Backend_Intro.pdf)
 
