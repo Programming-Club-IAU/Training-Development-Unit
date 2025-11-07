@@ -25,7 +25,7 @@ In this lecture, we will explore HTML Forms concepts:
 
 ## 🎥 Lecture Recording
 
-You can rewatch the full session here: [Watch the recording](https://udksa-my.sharepoint.com/:v:/g/personal/ccsit_pclub_iau_edu_sa/EeiX7wZrbjxJucOmT8sne-cBFkQMDAauC7u36MQd0UveNw?e=9GMfQt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+You can watch the recorded session here: [Watch the recording](https://udksa-my.sharepoint.com/:v:/g/personal/ccsit_pclub_iau_edu_sa/EdPOYQjlGHZJmOoxzAZeEGsBU1sTY9ZQGPkIyTC8CBnXXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zFVAx4)
 
 The slides used in the lecture:
 [Slides](/assets/Web_Basics_2.pdf)
