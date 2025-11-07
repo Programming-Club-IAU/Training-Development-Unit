@@ -13,7 +13,13 @@ The client-side of a website or application—everything users see and interact 
 ## 📚 Lectures
 
 
-[Week 2: Web Basics Part 1](../Lectures/Web_01.md)
+[Week 2: Web Basics Part 1 - HTML Basics](../Lectures/Web_01.md)
+
+
+[Week 3: Web Basics Part 2 - HTML Forms](../Lectures/Web_02.md)
+
+
+[Week 4: Web Basics Part 3 - CSS Basics](../Lectures/Web_03.md)
 
 
 
