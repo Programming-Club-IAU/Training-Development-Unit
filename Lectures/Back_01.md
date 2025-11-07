@@ -48,6 +48,6 @@ Once you’ve completed your task, share your repository link in the GitHub assi
 Feel free to check out the following resources regarding PHP if something peaked your interested:
 - [PHPtutorials.net](https://www.phptutorial.net/) (truly invaluable resource)
 - [W3schools - PHP](https://www.w3schools.com/php) 
-- [Laracasts - PHP for Beginners](https://laracasts.com/series/php-for-beginners)
+- [Laracasts - PHP for Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
 - [PHP the right way](https://phptherightway.com/)
 - [Awesome PHP - Github repo full of PHP project](https://github.com/ziadoz/awesome-php)
