@@ -1,8 +1,8 @@
 <div align="center">
   
-# 💻 Programming Club: P&D Committee Learning Paths🚀
+# 💻 Programming Club: T&D Unit Learning Paths🚀
 
-Official learning materials curated by the **Programming & Development Committee**. 
+Official learning materials curated by the **Training & Development Unit**. 
 A structured, step-by-step path for club members to master essential coding skills and development workflows.
 
 <br>
