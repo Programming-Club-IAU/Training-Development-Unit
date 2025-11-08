@@ -22,8 +22,9 @@ As part of this course, you’re expected to review the following materials to s
 These resources will help you understand more about the lecture topics *and* more:
 
 - [Bro Code Javascript]( https://youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv&si=r2Wb4YM9CtmfL_Fj)
-- [W3School - Javascript](https://youtu.be/H9zdfZrFUp0)
-- [W3School - HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+- [Javascript.info](javascript.info/#tab-1) 
+- [W3School - Javascript](https://www.w3schools.com/js/default.asp)
+
 
 <br>
 
@@ -66,5 +67,4 @@ Once you’ve completed your task, share your repository link in the GitHub assi
 If you’re interested in learning Javascript, here are some extra materials you can check out at your own pace:
 - [Eloquent Javascript]( https://eloquentjavascript.net/)
 - [TheOdinProject - Javascript]( https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics) 
-- [Javascript.info](javascript.info/#tab-1) 
 - [Javascript Tutorial](https://www.javascripttutorial.net/) 
