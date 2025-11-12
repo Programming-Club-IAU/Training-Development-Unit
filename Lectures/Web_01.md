@@ -63,3 +63,4 @@ If you’re interested in exploring more about HTML (maybe a little CSS), here a
 - [Hostinger - What is HTML?](https://www.hostinger.com/tutorials/what-is-html)
 - [W3school - HTML](https://www.w3schools.com/html/default.asp)
 - [HTML.com - Crash course on HTML](https://html.com/#tutorial)
+- [HTML Dog](https://www.htmldog.com/guides/)
