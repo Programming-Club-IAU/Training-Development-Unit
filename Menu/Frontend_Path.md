@@ -25,6 +25,18 @@ The client-side of a website or application—everything users see and interact 
 [Week 5: Front-end Intro](../Lectures/Front_01.md)
 
 
+[Week 6: Javascript Advanced](../Lectures/Front_02.md)
+
+
+[Week 7: Javascript Idioms](../Lectures/Front_03.md)
+
+
+[Week 8: DOM Basics](../Lectures/Front_04.md)
+
+
+[Extra Resources...](../Lectures/Front_Extra.md)
+
+
 
 
 </div>
