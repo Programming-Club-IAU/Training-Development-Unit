@@ -47,10 +47,8 @@ These resources will help you understand more about the lecture topics *and* mor
 
 ## 🧠 Assignment
 
-Use everything we learned in the session and self-learning, get creative 🦃
+Use everything you learned in this week's concepts, get creative 🦃
 
-Note: You dont need to add input for the project since javascript usually gets the data from the html.
-just show us a functioning project with ready data
 
 *Hints* if you want ideas:
 - Password Validation
