@@ -1,6 +1,6 @@
 
 
-## Week 02: 🌐 Web Basics Part 2 - HTML Forms
+## Week 03: 🌐 Web Basics Part 2 - HTML Forms
 
 In this lecture, we will explore HTML Forms concepts:
 <br>
