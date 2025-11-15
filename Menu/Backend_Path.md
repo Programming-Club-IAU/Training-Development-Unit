@@ -31,6 +31,12 @@ It uses server languages (like Python, Java, PHP) and interfaces with databases 
 [Week 06: PHP Advanced](../Lectures/Back_02.md)
 
 
+[Week 07: Intro to SQL](../Lectures/Back_03.md)
+
+
+[Week 08: Connecting and Pperating a Database via PHP](../Lectures/Back_04.md)
+
+
 
 </div>
 
