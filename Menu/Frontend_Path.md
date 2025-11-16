@@ -34,7 +34,7 @@ The client-side of a website or application—everything users see and interact 
 [Week 8: DOM Basics](../Lectures/Front_04.md)
 
 
-[Extra Resources...](../Lectures/Front_Extra.md)
+[Beyond the basics: What's Next in Front-end Development?](../Lectures/Front_Next.md)
 
 
 
