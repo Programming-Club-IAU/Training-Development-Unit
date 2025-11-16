@@ -4,7 +4,7 @@ A curated collection of resources to help you learn, practice, and master Front-
 
 ## 1. Learning Roadmaps & Guides
 * **[Developer Roadmaps](https://roadmap.sh/frontend)**: The gold standard for visualizing the path from beginner to advanced. It breaks down exactly what skills you need to learn in order.
-* **[MDN Web Docs](https://developer.mozilla.org/en-US/)**: The official "bible" of web development. If you are unsure about a specific HTML tag or CSS property, look here first.
+* **[MDN Web Docs](https://developer.mozilla.org/en-US/)**: The official "handbook" of web development. If you are unsure about a specific HTML tag or CSS property, look here first.
 * **[Frontend Masters](https://frontendmasters.com/)**: (Paid) High-quality, deep-dive video courses from industry experts. Excellent for moving from intermediate to advanced.
 
 ## 2. HTML & CSS
