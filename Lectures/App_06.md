@@ -1,4 +1,4 @@
-## Week 7 – 📱 State Management
+## Week 7 – 📱 Page Navigation & State Management
 
 This week we will build on what we already learned about State, StatefulWidget, and setState(). <br> <br>
 We will introduce Page Navigation, show how it relates to state, and then explore the basics of State Management techniques, focusing on Provider.
