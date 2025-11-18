@@ -26,7 +26,7 @@ The goal is to build a functional, engaging, and performant product distributed 
 [Week 5 & 6: Local Storage (Shared Preferences)](../Lectures/App_04_and_05.md)
 
 
-[Week 7: State Management](../Lectures/App_06.md)
+[Week 7: Page Navigation & State Management](../Lectures/App_06.md)
 
 
 
