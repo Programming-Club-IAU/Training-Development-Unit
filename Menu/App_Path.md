@@ -23,6 +23,12 @@ The goal is to build a functional, engaging, and performant product distributed 
 [Week 3 & 4: Flutter UI](../Lectures/App_02_and_03.md)
 
 
+[Week 5 & 6: Local Storage (Shared Preferences)](../Lectures/App_04_and_05.md)
+
+
+[Week 7: State Management](../Lectures/App_06.md)
+
+
 
 
 
