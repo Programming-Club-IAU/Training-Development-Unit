@@ -55,13 +55,13 @@ To fetch data using this package you need to follow these steps:
 *Friendly reminders 😁:*
 - **If the tutorial has intro/outro music, please mute it**
 - If the tutorial shows a UI widget you don’t know, just quickly search it (all of them are easy and fun, don’t panic!)
+<br>
 
 1. What is API
   - [MuleSoft Videos - What is an API?](https://youtu.be/s7wmiS2mSXY)
   - [Happy Tech - Important Definitions and API components](https://youtu.be/fMfklcNECqA)
-2. State Management (Provider)
-  - What is JSON
-    - [Tarmez Academy](https://youtu.be/4dz4qDMwmCM)
+2. What is JSON
+  - [Tarmez Academy](https://youtu.be/4dz4qDMwmCM)
 3. Using API in Flutter:
   - Using a News API to display news (focus on API logic more than UI)
     - [How to use an API](https://youtu.be/xXus5VSmPXE?si=kKCsfcTQ6EkYyKFT)
