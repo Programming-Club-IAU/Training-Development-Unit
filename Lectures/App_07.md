@@ -10,7 +10,7 @@ We will cover:
 - Displaying data in flutter (basic example)
 
 
-API (Application Programming Interface) is a way for your app to request data from another system.
+**API (Application Programming Interface)** is a way for your app to request data from another system.
 <br>
 You send a request → the server processes it → the server sends back data for your app to use.
 <br>
@@ -18,13 +18,13 @@ This is the basic idea behind almost every app you use daily! Weather apps get t
 
 
 The most common 4 types of API Requests are:
-1. GET - Fetch data: Used when app wants to *read* Information.
+1. **GET** - Fetch data: Used when app wants to *read* Information.
   - Example: Get a list of products.
-2. POST - Add new data: Used when sending *new* information to the server.
+2. **POST** - Add new data: Used when sending *new* information to the server.
   - Example: Create a new user account.
-3. PUT - Update existing data: Used when *editing* information already stored.
+3. **PUT** - Update existing data: Used when *editing* information already stored.
   - Example: Update a user profile.
-4. DELETE - Remove data: Used when deleting something from the server
+4. **DELETE** - Remove data: Used when deleting something from the server
   - Example: Delete a post
 
 When APIs send data back to your app, it will usually be sent in a format called **JSON (JavaScript Object Notation)**.
@@ -63,8 +63,14 @@ To fetch data using this package you need to follow these steps:
   - What is JSON
     - [Tarmez Academy](https://youtu.be/4dz4qDMwmCM)
 3. Using API in Flutter:
+  - Using a News API to display news (focus on API logic more than UI)
+    - [How to use an API](https://youtu.be/xXus5VSmPXE?si=kKCsfcTQ6EkYyKFT)
+    - [Turn JSON data to models](https://youtu.be/T5Sk-dNQgN0?si=CzRrCTU87mqGyuSs)
+    - [Fetching Data from an API](https://youtu.be/2X42G7yFoec?si=z_l4wXh4-hSRdDoh)
+    - [MVVM pattern with Provider](https://youtu.be/6l2jDERA5eI?si=EOsLI6-10fLt1eiV) (Ignore MVVM itself for now, just observe how Provider is used)
+  - [Using a posts API to display posts (fetch + display posts)](https://youtu.be/c09XiwOZKsI?si=g1Pq26n9lQIgWf7o)
+  - [Applying APIs with SharedPreferences + Provider](https://www.t10blogs.com/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%85%d9%84-%d9%85%d8%b9-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d9%88%d9%88%d8%a7%d8%ac%d9%87%d8%a7%d8%aa-api-%d9%81%d9%8a-flut/)
 
-STILL TO DO !!!!!!!!!!!!!!!!!!!!!!!!
 
 <br>
 
