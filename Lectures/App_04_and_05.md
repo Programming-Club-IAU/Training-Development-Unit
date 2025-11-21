@@ -14,7 +14,7 @@ We had some examples of full page UI to help you in millstone1, we also learned 
 ## 🎥 Recording & Slides & Extra Resources:
 
 **Recording:**
-- Part One: [Here](https://udksa.sharepoint.com/sites/nn-Appdevelopment/_layouts/15/stream.aspx?id=%2Fsites%2Fnn%2DAppdevelopment%2FShared%20Documents%2FRecordings%2FLocal%20Storge%20%2D%20Shared%20Preferences%2D20251111%5F224026%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4621a027%2Dc6c0%2D4291%2Da618%2Dc6666531a28d)
+- Part One: [Here](https://udksa.sharepoint.com/:v:/s/nn-Appdevelopment/IQATW5X3E_ETTKuXwrAzdCfUAUKZr97nhXO8_5ye4nLr_zw?e=21xWbc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Part Two: [Here](https://udksa.sharepoint.com/:v:/s/nn-Appdevelopment/IQBTREE8UL2cT6PL4OdU6Kl_AcL8HTiJs_l3cMl7URuxwSE?e=Vw7RW4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Extra Resources:**
