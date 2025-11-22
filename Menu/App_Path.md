@@ -29,6 +29,8 @@ The goal is to build a functional, engaging, and performant product distributed 
 [Week 7: Page Navigation & State Management](../Lectures/App_06.md)
 
 
+[Week 8: Introduction to APIs](../Lectures/App_07.md)
+
 
 
 
